@@ -1,0 +1,34 @@
+﻿ul.three-offers {
+    left: 0px;
+    position: absolute;
+    width: 970px;
+    background: url(../images/grayscale/arrows-color.png) no-repeat center top;
+}
+
+.tab2 {
+    display: block;
+    position: relative;
+    width: 970px;
+    height: 129px;
+}
+
+    .tab2 .hr {
+        position: absolute;
+        top: 139px;
+    }
+
+
+.grayscale {
+    background: url(../images/grayscale/arrows-grayscale.png) no-repeat center top !important;
+}
+
+.progressbar-overlay {
+    position: absolute;
+    width: 0px;
+    height: 129px;
+    overflow: hidden;
+    /* background-color: lightblue; */
+}
+
+.relative-fill {
+}
